@@ -19,8 +19,11 @@ STEP 5:Save the data to the file.
 # FEATURE SELECTION:
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
 The feature selection techniques used are:
+
 1.Filter Method
+
 2.Wrapper Method
+
 3.Embedded Method
 
 # CODING AND OUTPUT:
@@ -183,4 +186,5 @@ print(f"P-Value: {p}")
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      
+      Thus the code to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is implemented successfully.
