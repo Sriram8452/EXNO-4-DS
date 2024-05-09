@@ -27,6 +27,11 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+
+Developed By: Sriram G
+
+Register Number: 212222230149
+
 ```
 import pandas as pd
 import numpy as np
